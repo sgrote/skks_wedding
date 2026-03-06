@@ -9,6 +9,8 @@ website:
         text: Home
       - href: schedule.qmd
         text: Zeitplan
+      - href: location.qmd
+        text: Location
       - about.qmd
 
 format:

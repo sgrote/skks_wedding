@@ -1,13 +1,16 @@
+![](images/header_wooden.jpg){fig-alt="Wooden Header" width=100%}
+
 ---
 title: "Welcome"
 ---
+
 
 # Anna & Max
 
 We’re excited to celebrate with you!
 
-📅 **Date:** July 12, 2026  
-📍 **Location:** Göttingen
+📅 **Datum:** 26.06.26  
+📍 **Location:** Kranwerk Naunhof
 
 ## Bla Bla
 

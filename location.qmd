@@ -1,0 +1,41 @@
+---
+title: "Location"
+---
+
+# Location
+
+Gefeiert wird im Kranwerk Naunhof.
+
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.3754860513895!2d12.5939651!3d51.2799559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a701c28a4acfd3%3A0xf9518f73c7721523!2sAltes%20Kranwerk%20Naunhof!5e1!3m2!1sde!2sde!4v1772829529337!5m2!1sde!2sde" 
+  width="600" 
+  height="450" 
+  style="border:0;" 
+  allowfullscreen="" 
+  loading="lazy">
+</iframe>
+
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=12.592823803424837%2C51.279219487910325%2C12.593716979026794%2C51.28070263084513&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/51.279961/12.593270">View Larger Map</a></small>
+
+
+## Location
+
+The celebration takes place here:
+
+<iframe 
+    width="100%" 
+    height="450" 
+    frameborder="0" 
+    scrolling="no" 
+    marginheight="0" 
+    marginwidth="0"
+    src="https://www.openstreetmap.org/export/embed.html?bbox=12.589470417113893%2C51.27505271434776%2C12.599470417113893%2C51.28505271434776&amp;layer=mapnik&amp;marker=51.28005271434776%2C12.594470417113893">
+</iframe>
+
+<br/>
+<small>
+  <a href="https://www.openstreetmap.org/?mlat=51.280053&amp;mlon=12.594470#map=15/51.28005271434776/12.594470417113893" target="_blank">
+    View Larger Map
+  </a>
+</small>
