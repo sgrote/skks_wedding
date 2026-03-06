@@ -1,11 +1,14 @@
 ---
-title: "website_skks_quarto"
+title: "Welcome"
 ---
 
-This is a Quarto website.
+# Anna & Max
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We’re excited to celebrate with you!
 
-```{r}
-1 + 1
-```
+📅 **Date:** July 12, 2026  
+📍 **Location:** Göttingen
+
+## Bla Bla
+
+So nice you want to celebrate.
