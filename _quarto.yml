@@ -3,23 +3,37 @@ project:
 
 website:
   title: "SKKS Wedding"
-  navbar:
-    left:
+
+  navbar: false
+
+  sidebar:
+    style: docked
+    pinned: true
+    collapse-level: 0
+    search: false
+
+    header: |
+      <div class="sidebar-header">
+        <div class="couple-names">S & K</div>
+        <div class="wedding-date">August 2026</div>
+      </div>
+
+    contents:
       - href: index.qmd
         text: Home
       - href: schedule.qmd
         text: Zeitplan
       - href: location.qmd
         text: Location
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
     css: styles.css
-    toc: true
+    toc: false
+    grid:
+      sidebar-width: 240px
+      body-width: 900px
 
 editor: visual
-
