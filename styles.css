@@ -63,3 +63,28 @@
   height: auto;
   display: block;
 }
+
+/* Home logo (top-left) */
+.home-logo {
+  position: fixed;
+  top: 15px;
+  left: 60px; /* leave space for ☰ button */
+  z-index: 1000;
+}
+
+.home-logo img {
+  height: 40px;
+  width: auto;
+  display: block;
+}
+
+@media (max-width: 991px) {
+  .home-logo {
+    top: 15px;
+    left: 65px;
+  }
+
+  .home-logo img {
+    height: 36px;
+  }
+}

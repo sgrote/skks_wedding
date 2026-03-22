@@ -31,7 +31,9 @@ website:
 format:
   html:
     css: styles.css
-    include-before-body: header.html
+    include-before-body:
+      - header.html
+      - logo.html
     toc: false
     grid:
       sidebar-width: 240px
