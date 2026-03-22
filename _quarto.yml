@@ -2,8 +2,6 @@ project:
   type: website
 
 website:
-  title: "SKKS Wedding"
-
   navbar: false
 
   sidebar:
@@ -11,29 +9,27 @@ website:
     pinned: true
     collapse-level: 0
     search: false
-
-    header: |
-      <div class="sidebar-header">
-        <div class="couple-names">S & K</div>
-        <div class="wedding-date">August 2026</div>
-      </div>
-
     contents:
-      - href: index.qmd
-        text: Home
-      - href: schedule.qmd
-        text: Zeitplan
-      - href: location.qmd
-        text: Location
-      - href: about.qmd
-        text: About
+    - text: "![](images/logo-home_wooden.jpg)"
+      href: index.qmd
+    - text: Home
+      href: index.qmd
+    - text: Zeitplan
+      href: zeitplan.qmd
+    - text: Location
+      href: location.qmd
+    - text: About
+      href: about.qmd
 
 format:
   html:
+    theme: darkly
+    # theme: solar
+    # theme: slate
+    breadcrumb: false
     css: styles.css
     include-before-body:
       - header.html
-      - logo.html
     toc: false
     grid:
       sidebar-width: 240px
