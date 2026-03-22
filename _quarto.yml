@@ -15,7 +15,7 @@ website:
     - text: Home
       href: index.qmd
     - text: Zeitplan
-      href: zeitplan.qmd
+      href: schedule.qmd
     - text: Location
       href: location.qmd
     - text: About
