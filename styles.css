@@ -24,17 +24,6 @@ body {
   margin-bottom: 10px;
 }
 
-.couple-names {
-  font-size: 1.6rem;
-  font-weight: 600;
-  letter-spacing: 2px;
-}
-
-.wedding-date {
-  font-size: 0.9rem;
-  color: #777;
-}
-
 #quarto-header {
   background: transparent;
   border: none;
