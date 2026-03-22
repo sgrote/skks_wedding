@@ -1,4 +1,3 @@
-![](images/header_wooden.jpg){fig-alt="Wooden Header" width=100%}
 
 ---
 title: "Welcome"
