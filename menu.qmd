@@ -1,0 +1,39 @@
+---
+title: "Menü"
+---
+
+NUR ALS PLATZHALTER
+
+## 🥨 Vorspeisen
+
+- Brot & Dips  
+- Käseplatte  
+- Frische Salate  
+
+---
+
+## 🍝 Hauptgerichte
+
+### Vegetarisch
+- Gemüse-Lasagne  
+- Pilz-Risotto  
+
+### Fleisch
+- Brathähnchen  
+- Rindereintopf  
+
+---
+
+## 🍰 Desserts
+
+- Schokoladenkuchen  
+- Apfel-Crumble  
+- Eisauswahl  
+
+---
+
+## 🍷 Getränke
+
+- Wasser (still / sprudelnd)  
+- Softdrinks  
+- Bier & Wein  

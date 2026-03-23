@@ -10,13 +10,113 @@
     ]
   },
   {
-    "objectID": "schedule.html#zeitplan-für-den-26.06.26",
-    "href": "schedule.html#zeitplan-für-den-26.06.26",
-    "title": "Zeitplan",
-    "section": "Zeitplan für den 26.06.26",
-    "text": "Zeitplan für den 26.06.26\n\n15:00 Ceremony\n17:00 Anreise & Mitbring-Buffet\n18:00 Party\n19:00 Abendessen\n20:00 noch mehr Party\n05:00 ab ins Bettchen",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Kontakt",
+    "section": "",
+    "text": "PLATZHALTER\nBei Fragen rund um die Veranstaltung könnt ihr euch jederzeit bei uns melden.",
     "crumbs": [
-      "Zeitplan"
+      "Kontakt"
+    ]
+  },
+  {
+    "objectID": "contact.html#kontakt",
+    "href": "contact.html#kontakt",
+    "title": "Kontakt",
+    "section": "📧 Kontakt",
+    "text": "📧 Kontakt\n\nE-Mail: name@example.com\n\nTelefon: +49 123 456789\n\n\nWir freuen uns, von euch zu hören! 😊",
+    "crumbs": [
+      "Kontakt"
+    ]
+  },
+  {
+    "objectID": "menu.html",
+    "href": "menu.html",
+    "title": "Menü",
+    "section": "",
+    "text": "NUR ALS PLATZHALTER",
+    "crumbs": [
+      "Essen"
+    ]
+  },
+  {
+    "objectID": "menu.html#vorspeisen",
+    "href": "menu.html#vorspeisen",
+    "title": "Menü",
+    "section": "🥨 Vorspeisen",
+    "text": "🥨 Vorspeisen\n\nBrot & Dips\n\nKäseplatte\n\nFrische Salate",
+    "crumbs": [
+      "Essen"
+    ]
+  },
+  {
+    "objectID": "menu.html#hauptgerichte",
+    "href": "menu.html#hauptgerichte",
+    "title": "Menü",
+    "section": "🍝 Hauptgerichte",
+    "text": "🍝 Hauptgerichte\n\nVegetarisch\n\nGemüse-Lasagne\n\nPilz-Risotto\n\n\n\nFleisch\n\nBrathähnchen\n\nRindereintopf",
+    "crumbs": [
+      "Essen"
+    ]
+  },
+  {
+    "objectID": "menu.html#desserts",
+    "href": "menu.html#desserts",
+    "title": "Menü",
+    "section": "🍰 Desserts",
+    "text": "🍰 Desserts\n\nSchokoladenkuchen\n\nApfel-Crumble\n\nEisauswahl",
+    "crumbs": [
+      "Essen"
+    ]
+  },
+  {
+    "objectID": "menu.html#getränke",
+    "href": "menu.html#getränke",
+    "title": "Menü",
+    "section": "🍷 Getränke",
+    "text": "🍷 Getränke\n\nWasser (still / sprudelnd)\n\nSoftdrinks\n\nBier & Wein",
+    "crumbs": [
+      "Essen"
+    ]
+  },
+  {
+    "objectID": "accomodation.html",
+    "href": "accomodation.html",
+    "title": "Unterkunft",
+    "section": "",
+    "text": "Ihr habt verschiedene Optionen.\nK & S wissen mehr",
+    "crumbs": [
+      "Unterkunft"
+    ]
+  },
+  {
+    "objectID": "accomodation.html#hotelchen",
+    "href": "accomodation.html#hotelchen",
+    "title": "Unterkunft",
+    "section": "Hotelchen",
+    "text": "Hotelchen\nName und Link",
+    "crumbs": [
+      "Unterkunft"
+    ]
+  },
+  {
+    "objectID": "accomodation.html#pension",
+    "href": "accomodation.html#pension",
+    "title": "Unterkunft",
+    "section": "Pension",
+    "text": "Pension\nName und Link",
+    "crumbs": [
+      "Unterkunft"
+    ]
+  },
+  {
+    "objectID": "accomodation.html#zeltwiese",
+    "href": "accomodation.html#zeltwiese",
+    "title": "Unterkunft",
+    "section": "Zeltwiese",
+    "text": "Zeltwiese\nFür die die eh nicht auf die Website schauen",
+    "crumbs": [
+      "Unterkunft"
     ]
   },
   {
@@ -27,6 +127,36 @@
     "text": "Bla Bla\nSo nice you want to celebrate.",
     "crumbs": [
       "![](images/logo-home_wooden.jpg)"
+    ]
+  },
+  {
+    "objectID": "gifts.html",
+    "href": "gifts.html",
+    "title": "Geschenke",
+    "section": "",
+    "text": "PLATZHALTER\nMit euch zu feiern ist für uns das schönste Geschenk (schleim)! 🎉\nWenn ihr uns darüber hinaus eine Freude machen möchtet, freuen wir uns über einen kleinen Beitrag zu unserer Reisekasse.\n\nGanz egal wie – wir freuen uns, diesen Tag mit euch zu verbringen! 💛",
+    "crumbs": [
+      "Geschenke"
+    ]
+  },
+  {
+    "objectID": "schedule.html#zeitplan-für-den-26.06.26",
+    "href": "schedule.html#zeitplan-für-den-26.06.26",
+    "title": "Zeitplan",
+    "section": "Zeitplan für den 26.06.26",
+    "text": "Zeitplan für den 26.06.26\n\n15:00 Ceremony\n17:00 Anreise & Mitbring-Buffet\n18:00 Party\n19:00 Abendessen\n20:00 noch mehr Party\n05:00 ab ins Bettchen",
+    "crumbs": [
+      "Zeitplan"
+    ]
+  },
+  {
+    "objectID": "pictures.html",
+    "href": "pictures.html",
+    "title": "Fotos",
+    "section": "",
+    "text": "PLATZHALTER\nLadet hier eure Fotos über diesen QR-Code hoch.\nBzw. über diesen Link.\nUnd schaut euch hier die Gallerie an (eher nachdem das oben deaktiviert wurde?).",
+    "crumbs": [
+      "Fotos"
     ]
   },
   {

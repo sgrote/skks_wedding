@@ -78,14 +78,16 @@ body {
   }
 }
 
+
 body {
   color: black;
   background-image: url("images/background_wooden.jpg");
-  background-size: cover;        /* fill screen */
-  background-position: center;   /* keep centered */
-  background-repeat: no-repeat;  /* no tiling */
-  background-attachment: fixed;  /* subtle parallax effect */
+  background-size: cover;       
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
 }
+
 
 /* 
 main {

@@ -1,0 +1,18 @@
+---
+title: "Kontakt"
+---
+
+PLATZHALTER
+
+Bei Fragen rund um die Veranstaltung könnt ihr euch jederzeit bei uns melden.
+
+---
+
+## 📧 Kontakt
+
+- E-Mail: name@example.com  
+- Telefon: +49 123 456789  
+
+---
+
+Wir freuen uns, von euch zu hören! 😊

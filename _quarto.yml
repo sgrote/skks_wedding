@@ -15,12 +15,22 @@ website:
       href: index.qmd
     - text: Home
       href: index.qmd
-    - text: Zeitplan
-      href: schedule.qmd
     - text: Location
       href: location.qmd
+    - text: Zeitplan
+      href: schedule.qmd
+    - text: Unterkunft
+      href: accomodation.qmd   
+    - text: Essen
+      href: menu.qmd   
+    - text: Geschenke
+      href: gifts.qmd   
+    - text: Fotos
+      href: pictures.qmd   
     - text: About
       href: about.qmd
+    - text: Kontakt
+      href: contact.qmd
 
 format:
   html:
