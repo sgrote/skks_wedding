@@ -98,3 +98,17 @@ body {
     display: none;
   }
 }
+
+/* Floating home logo (top-left) */
+.home-logo img {
+  width: 180px;   /* desktop size */
+  height: auto;
+  display: block;
+}
+
+/* Make it smaller on mobile */
+@media (max-width: 768px) {
+  .home-logo img {
+    width: 90px;   /* adjust to taste */
+  }
+}
