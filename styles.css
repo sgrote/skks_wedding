@@ -10,20 +10,6 @@ body {
   margin: 0;
 }
 
-/* Sidebar background */
-.sidebar {
-  background-color: #faf6f2;
-  font-family: Georgia, serif;
-}
-
-/* Sidebar header block */
-.sidebar-header {
-  text-align: center;
-  padding: 20px 10px 25px 10px;
-  border-bottom: 1px solid #e8dede;
-  margin-bottom: 10px;
-}
-
 #quarto-header {
   background: transparent;
   border: none;
@@ -32,27 +18,6 @@ body {
   overflow: visible;
 }
 
-/* Hide top navigation stub when sidebar is collapsed */
-#quarto-sidebar-glass,
-#quarto-sidebar-top {
-  display: none !important;
-}
-
-.quarto-sidebar-toggle {
-  display: block !important;
-  position: fixed;
-  top: 15px;
-  left: 15px;
-  z-index: 1000;
-
-  background: #ffffffcc;
-  backdrop-filter: blur(6px);
-  border-radius: 8px;
-  padding: 6px 10px;
-
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  font-size: 1.3rem;
-}
 
 @media (min-width: 992px) {
   .quarto-sidebar-toggle {
