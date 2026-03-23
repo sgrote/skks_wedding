@@ -77,3 +77,20 @@ body {
     width: 90px;   /* adjust to taste */
   }
 }
+
+body {
+  color: black;
+  background-image: url("images/background_wooden.jpg");
+  background-size: cover;        /* fill screen */
+  background-position: center;   /* keep centered */
+  background-repeat: no-repeat;  /* no tiling */
+  background-attachment: fixed;  /* subtle parallax effect */
+}
+
+/* 
+main {
+  background-image: url("images/background_wooden.jpg");
+  background-size: cover;
+  background-position: center;
+}
+*/
