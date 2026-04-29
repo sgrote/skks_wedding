@@ -8,5 +8,7 @@
 **/*.quarto_ipynb
 /_site/
 
+notes.txt
+
 # Quarto generated site libraries
 docs/site_libs/

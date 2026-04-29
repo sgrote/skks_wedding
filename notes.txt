@@ -1,8 +1,0 @@
-
-Add the pictures and general shaping like in Kathrin's Draft
-
-Host page on Gitlab pages
-
-Under GitHub Settings -> Pages there is a how to on hosting on other domains
-
-QR code for uploading pictures?
