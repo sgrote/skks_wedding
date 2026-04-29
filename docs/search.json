@@ -1,32 +1,12 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Work in progress by Steffi and Quarto.\nContent to be filled and modified by Kathrin. KS.",
+    "objectID": "schedule.html#zeitplan-für-den-26.06.26",
+    "href": "schedule.html#zeitplan-für-den-26.06.26",
+    "title": "Zeitplan",
+    "section": "Zeitplan für den 26.06.26",
+    "text": "Zeitplan für den 26.06.26\n\n15:00 Ceremony\n17:00 Anreise & Mitbring-Buffet\n18:00 Party\n19:00 Abendessen\n20:00 noch mehr Party\n05:00 ab ins Bettchen",
     "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Kontakt",
-    "section": "",
-    "text": "PLATZHALTER\nBei Fragen rund um die Veranstaltung könnt ihr euch jederzeit bei uns melden.",
-    "crumbs": [
-      "Kontakt"
-    ]
-  },
-  {
-    "objectID": "contact.html#kontakt",
-    "href": "contact.html#kontakt",
-    "title": "Kontakt",
-    "section": "📧 Kontakt",
-    "text": "📧 Kontakt\n\nE-Mail: name@example.com\n\nTelefon: +49 123 456789\n\n\nWir freuen uns, von euch zu hören! 😊",
-    "crumbs": [
-      "Kontakt"
+      "Zeitplan"
     ]
   },
   {
@@ -80,6 +60,46 @@
     ]
   },
   {
+    "objectID": "index.html#bla-bla",
+    "href": "index.html#bla-bla",
+    "title": "Welcome",
+    "section": "Bla Bla",
+    "text": "Bla Bla\nSo nice you want to celebrate.",
+    "crumbs": [
+      "![](images/logo-home_wooden.jpg)"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Kontakt",
+    "section": "",
+    "text": "PLATZHALTER\nBei Fragen rund um die Veranstaltung könnt ihr euch jederzeit bei uns melden.",
+    "crumbs": [
+      "Kontakt"
+    ]
+  },
+  {
+    "objectID": "contact.html#kontakt",
+    "href": "contact.html#kontakt",
+    "title": "Kontakt",
+    "section": "📧 Kontakt",
+    "text": "📧 Kontakt\n\nE-Mail: name@example.com\n\nTelefon: +49 123 456789\n\n\nWir freuen uns, von euch zu hören! 😊",
+    "crumbs": [
+      "Kontakt"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Work in progress by Steffi and Quarto.\nContent to be filled and modified by Kathrin. KS.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
     "objectID": "accomodation.html",
     "href": "accomodation.html",
     "title": "Unterkunft",
@@ -120,16 +140,6 @@
     ]
   },
   {
-    "objectID": "index.html#bla-bla",
-    "href": "index.html#bla-bla",
-    "title": "Welcome",
-    "section": "Bla Bla",
-    "text": "Bla Bla\nSo nice you want to celebrate.",
-    "crumbs": [
-      "![](images/logo-home_wooden.jpg)"
-    ]
-  },
-  {
     "objectID": "gifts.html",
     "href": "gifts.html",
     "title": "Geschenke",
@@ -140,13 +150,13 @@
     ]
   },
   {
-    "objectID": "schedule.html#zeitplan-für-den-26.06.26",
-    "href": "schedule.html#zeitplan-für-den-26.06.26",
-    "title": "Zeitplan",
-    "section": "Zeitplan für den 26.06.26",
-    "text": "Zeitplan für den 26.06.26\n\n15:00 Ceremony\n17:00 Anreise & Mitbring-Buffet\n18:00 Party\n19:00 Abendessen\n20:00 noch mehr Party\n05:00 ab ins Bettchen",
+    "objectID": "location.html",
+    "href": "location.html",
+    "title": "Location",
+    "section": "",
+    "text": "Gefeiert wird im Kranwerk Naunhof.\nLutherstraße 10\n04683 Naunhof\nkranwerk.com",
     "crumbs": [
-      "Zeitplan"
+      "Location"
     ]
   },
   {
@@ -157,16 +167,6 @@
     "text": "PLATZHALTER\nLadet hier eure Fotos über diesen QR-Code hoch.\nBzw. über diesen Link.\nUnd schaut euch hier die Gallerie an (eher nachdem das oben deaktiviert wurde?).",
     "crumbs": [
       "Fotos"
-    ]
-  },
-  {
-    "objectID": "location.html",
-    "href": "location.html",
-    "title": "Location",
-    "section": "",
-    "text": "Gefeiert wird im Kranwerk Naunhof.\nBeispiel Karte 1\n\n\n\nBeispiel Karte 2",
-    "crumbs": [
-      "Location"
     ]
   }
 ]
