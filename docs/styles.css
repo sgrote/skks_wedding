@@ -112,3 +112,22 @@ main > *:first-child {
     display: none;
   }
 }
+
+/* =========================================================
+   URL links
+   ========================================================= */
+
+/* Improve link visibility in page content */
+main a {
+  color: #2b2b2b;             /* dark text color */
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Hover / focus state */
+main a:hover,
+main a:focus {
+  color: #000;
+  text-decoration-thickness: 2px;
+}
