@@ -1,3 +1,17 @@
+/* =========================================================
+   Global layout resets
+   ========================================================= */
+
+body {
+  margin: 0;
+  color: black;
+  background-image: url("images/background_wooden.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 main {
   padding-top: 0 !important;
 }
@@ -6,25 +20,51 @@ main > *:first-child {
   margin-top: 0 !important;
 }
 
-body {
-  margin: 0;
-}
+
+/* =========================================================
+   Quarto header container
+   ========================================================= */
 
 #quarto-header {
   background: transparent;
   border: none;
   box-shadow: none;
-  height: 0;
-  overflow: visible;
+  height: auto;
+  overflow: hidden;
 }
 
 
+/* =========================================================
+   Sidebar behavior
+   ========================================================= */
+
+/* Hide sidebar toggle button on desktop */
 @media (min-width: 992px) {
   .quarto-sidebar-toggle {
     display: none !important;
   }
 }
 
+/* Sidebar home logo image */
+.sidebar nav a img {
+  max-width: 260px;
+  width: 100%;
+  display: block;
+  margin: 10px auto;
+  border-radius: 12px;
+}
+
+/* Hide sidebar home logo image on mobile */
+@media (max-width: 768px) {
+  .sidebar nav a img {
+    display: none;
+  }
+}
+
+
+/* =========================================================
+   Hero header image
+   ========================================================= */
 
 .hero-header {
   width: 100%;
@@ -35,64 +75,40 @@ body {
 .hero-image {
   width: 100%;
   height: 250px;
+  display: block;
   margin: 0;
   padding: 0;
   object-fit: contain;
-  display: block;
 }
 
-/* Logo container */
-.sidebar .sidebar-item:first-child {
-  padding: 10px;
-  margin: 15px 10px;
-  text-align: center;
-}
-
-/* Logo image */
-.sidebar .sidebar-item:first-child img {
-  max-width: 260px;
-  width: 100%;
-  display: block;
-  margin: 10px auto;
-  border-radius: 12px;
-}
-
-/* Hide logo on mobile */
 @media (max-width: 768px) {
-  .sidebar .sidebar-item:first-child {
-    display: none;
+  .hero-image {
+    height: 100px;
+    object-fit: cover;
   }
 }
 
-/* Floating home logo (top-left) */
+
+/* =========================================================
+   Floating home logo
+   ========================================================= */
+
+.home-logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+}
+
 .home-logo img {
-  width: 180px;   /* desktop size */
+  width: 180px;
   height: auto;
   display: block;
 }
 
-/* Make it smaller on mobile */
+/* Hide floating home logo on mobile */
 @media (max-width: 768px) {
   .home-logo img {
-    width: 90px;   /* adjust to taste */
+    display: none;
   }
 }
-
-
-body {
-  color: black;
-  background-image: url("images/background_wooden.jpg");
-  background-size: cover;       
-  background-position: center; 
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-}
-
-
-/* 
-main {
-  background-image: url("images/background_wooden.jpg");
-  background-size: cover;
-  background-position: center;
-}
-*/
