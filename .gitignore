@@ -3,6 +3,10 @@
 .RData
 .Ruserdata
 
-/.quarto/
+.quarto/
+.quarto-cache/
 **/*.quarto_ipynb
 /_site/
+
+# Quarto generated site libraries
+docs/site_libs/
