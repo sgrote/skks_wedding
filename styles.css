@@ -70,6 +70,7 @@ main > *:first-child {
   width: 100%;
   max-width: 100%;
   overflow: hidden;
+  position: relative;
 }
 
 .hero-image {
@@ -89,6 +90,11 @@ main > *:first-child {
 }
 
 
+/* Prevent mobile clipping */
+#quarto-header {
+  overflow: visible;
+}
+
 /* =========================================================
    Floating home logo
    ========================================================= */
@@ -106,12 +112,20 @@ main > *:first-child {
   display: block;
 }
 
-/* Hide floating home logo on mobile */
-@media (max-width: 768px) {
-  .home-logo img {
-    display: none;
+/* Hide sidebar logo on tablet & mobile */
+@media (max-width: 991px) {
+  .sidebar nav a img {
+    display: none !important;
   }
 }
+
+/* Hide floating logo on mobile */
+@media (max-width: 768px) {
+  .home-logo {
+    display: none !important;
+  }
+}
+
 
 /* =========================================================
    URL links
