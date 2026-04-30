@@ -10,7 +10,4 @@
 
 notes.txt
 
-# Quarto generated site libraries
-docs/site_libs/
-
 /.quarto/
