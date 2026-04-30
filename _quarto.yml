@@ -11,8 +11,6 @@ website:
     collapse-level: 0
     search: false
     contents:
-    - text: "![](images/logo-home_wooden.jpg)"
-      href: index.qmd
     - text: Home
       href: index.qmd
     - text: Location
