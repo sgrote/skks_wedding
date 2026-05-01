@@ -10,6 +10,7 @@ website:
     pinned: true
     collapse-level: 0
     search: false
+    logo: "images/logo-home_wooden.jpg"
     contents:
     - text: Home
       href: index.qmd
