@@ -1,5 +1,5 @@
 /* =========================================================
-   Global layout resets
+   Global layout
    ========================================================= */
 
 body {
@@ -12,6 +12,7 @@ body {
   background-attachment: fixed;
 }
 
+/* Remove unwanted top spacing */
 main {
   padding-top: 0 !important;
 }
@@ -22,7 +23,7 @@ main > *:first-child {
 
 
 /* =========================================================
-   Quarto header container
+   Quarto header
    ========================================================= */
 
 #quarto-header {
@@ -30,7 +31,7 @@ main > *:first-child {
   border: none;
   box-shadow: none;
   height: auto;
-  overflow: hidden;
+  overflow: visible; /* important for mobile */
 }
 
 
@@ -45,20 +46,9 @@ main > *:first-child {
   }
 }
 
-/* Sidebar home logo image */
-.sidebar nav a img {
-  max-width: 260px;
-  width: 100%;
-  display: block;
-  margin: 10px auto;
-  border-radius: 12px;
-}
-
-/* Hide sidebar home logo image on mobile */
-@media (max-width: 768px) {
-  .sidebar nav a img {
-    display: none;
-  }
+/* Slightly soften the sidebar background */
+.quarto-sidebar {
+  background-color: rgba(60, 60, 60, 0.85);
 }
 
 
@@ -70,7 +60,6 @@ main > *:first-child {
   width: 100%;
   max-width: 100%;
   overflow: hidden;
-  position: relative;
 }
 
 .hero-image {
@@ -82,6 +71,7 @@ main > *:first-child {
   object-fit: contain;
 }
 
+/* Smaller hero image on mobile */
 @media (max-width: 768px) {
   .hero-image {
     height: 100px;
@@ -90,56 +80,18 @@ main > *:first-child {
 }
 
 
-/* Prevent mobile clipping */
-#quarto-header {
-  overflow: visible;
-}
-
 /* =========================================================
-   Floating home logo
-   ========================================================= */
-
-.home-logo {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  z-index: 1000;
-}
-
-.home-logo img {
-  width: 180px;
-  height: auto;
-  display: block;
-}
-
-/* Hide sidebar logo on tablet & mobile */
-@media (max-width: 991px) {
-  .sidebar nav a img {
-    display: none !important;
-  }
-}
-
-/* Hide floating logo on mobile */
-@media (max-width: 768px) {
-  .home-logo {
-    display: none !important;
-  }
-}
-
-
-/* =========================================================
-   URL links
+   Content links
    ========================================================= */
 
 /* Improve link visibility in page content */
 main a {
-  color: #2b2b2b;             /* dark text color */
+  color: #2b2b2b;
   font-weight: 600;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
-/* Hover / focus state */
 main a:hover,
 main a:focus {
   color: #000;
