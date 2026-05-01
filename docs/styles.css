@@ -46,7 +46,7 @@ main > *:first-child {
   }
 }
 
-/* Optional: slightly soften the sidebar background */
+/* Slightly soften the sidebar background */
 .quarto-sidebar {
   background-color: rgba(60, 60, 60, 0.85);
 }
@@ -74,8 +74,9 @@ main > *:first-child {
 /* Smaller hero image on mobile */
 @media (max-width: 768px) {
   .hero-image {
-    height: 100px;
-    object-fit: cover;
+    height: auto;
+    max-height: 180px;      /* optional, controls vertical space */
+    object-fit: contain;
   }
 }
 
