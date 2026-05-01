@@ -2,17 +2,22 @@
 title: "Kontakt"
 ---
 
-PLATZHALTER
-
-Bei Fragen rund um die Veranstaltung könnt ihr euch jederzeit bei uns melden.
+Bei Fragen rund um die Veranstaltung könnt ihr euch jederzeit bei den Trauzeug*innen melden.
 
 ---
 
-## 📧 Kontakt
+### Steffi
 
-- E-Mail: name@example.com  
-- Telefon: +49 123 456789  
+- E-Mail: grote.steffi@gmail.com
+
+### Robert
+
+
+### Valeska
+
+
+### Daniel
 
 ---
 
-Wir freuen uns, von euch zu hören! 😊
+Wir freuen uns, von euch zu hören!
