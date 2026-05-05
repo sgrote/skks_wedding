@@ -20,51 +20,11 @@
     ]
   },
   {
-    "objectID": "menu.html",
-    "href": "menu.html",
-    "title": "Menü",
-    "section": "",
-    "text": "NUR ALS PLATZHALTER",
-    "crumbs": [
-      "Essen"
-    ]
-  },
-  {
-    "objectID": "menu.html#vorspeisen",
-    "href": "menu.html#vorspeisen",
-    "title": "Menü",
-    "section": "🥨 Vorspeisen",
-    "text": "🥨 Vorspeisen\n\nBrot & Dips\n\nKäseplatte\n\nFrische Salate",
-    "crumbs": [
-      "Essen"
-    ]
-  },
-  {
-    "objectID": "menu.html#hauptgerichte",
-    "href": "menu.html#hauptgerichte",
-    "title": "Menü",
-    "section": "🍝 Hauptgerichte",
-    "text": "🍝 Hauptgerichte\n\nVegetarisch\n\nGemüse-Lasagne\n\nPilz-Risotto\n\n\n\nFleisch\n\nBrathähnchen\n\nRindereintopf",
-    "crumbs": [
-      "Essen"
-    ]
-  },
-  {
-    "objectID": "menu.html#desserts",
-    "href": "menu.html#desserts",
-    "title": "Menü",
-    "section": "🍰 Desserts",
-    "text": "🍰 Desserts\n\nSchokoladenkuchen\n\nApfel-Crumble\n\nEisauswahl",
-    "crumbs": [
-      "Essen"
-    ]
-  },
-  {
-    "objectID": "menu.html#getränke",
-    "href": "menu.html#getränke",
-    "title": "Menü",
-    "section": "🍷 Getränke",
-    "text": "🍷 Getränke\n\nWasser (still / sprudelnd)\n\nSoftdrinks\n\nBier & Wein",
+    "objectID": "menu.html#futter-plan",
+    "href": "menu.html#futter-plan",
+    "title": "Essen",
+    "section": "Futter-Plan",
+    "text": "Futter-Plan\n\n16:00 – 18:00 Uhr: Kuchen-Mitbring-Buffet\nEure Mithilfe ist hier sehr gefragt. Wer Lust hat zu backen und nicht erst um 18:00 Uhr anreist, kann uns alle gern mit seinen/ihren Backkünsten verwöhnen.\nBitte sprecht euch kurz mit uns ab, damit nicht fünfmal die Schoko-Sahne-Torte auf dem Tisch steht.\nWenn wir uns Kuchensorten wünschen dürften, dann gern:\n\netwas mit Früchten\netwas mit Streuseln\netwas mit Pudding oder Quark\n\nBitte verzichtet auf übertrieben aufwendige „Hochzeitstorten“.\n\n\n\n19:00 – 20:30 Uhr: veganes/vegetarisches Hochzeits-Buffet\nLasst euch überraschen von der regionalen Küche des Kranwerk-Teams.\nEs gibt:\n\nverschiedene Vorspeisen\nfrische Salate\nein warmes Buffet\nsowie ein Dessertangebot",
     "crumbs": [
       "Essen"
     ]
