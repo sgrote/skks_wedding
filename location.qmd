@@ -1,23 +1,33 @@
 ---
 title: "Location"
----
+--- 
+<br>
+[kranwerk.com](https://www.kranwerk.com/)  
 
-Gefeiert wird im Kranwerk Naunhof.
+#### Adresse
 
-Lutherstraße 10  
+Altes Kranwerk Naunhof\
+Lutherstraße 10\
 04683 Naunhof
 
-[kranwerk.com](https://www.kranwerk.com/)
 
+<!-- Official Open Street Map embedding does not support label or address, just a marker -->
 
-
-<!-- Official Open Street Map emdedding does not support label or address, just a marker -->
-
-<div class="map-container">
-  <iframe
+::: map-container
+<iframe
     src="https://www.openstreetmap.org/export/embed.html?bbox=12.589470417113893%2C51.27505271434776%2C12.599470417113893%2C51.28505271434776&amp;layer=mapnik&amp;marker=51.279981198521206%2C12.59394496679306"
     frameborder="0"
     scrolling="no"
-    style="border: 1px solid black">
-  </iframe>
-</div>
+    style="border: 1px solid black"> </iframe>
+:::
+
+<br>
+
+#### Parken
+
+- Kurzzeitparken vor dem Kranwerk
+- Großer Parkplatz vor der Oberschule: Wurzener Straße 38, 04683 Naunhof 
+- Übernachtungsgäste Hotel: können auch direkt am  [Hotel](https://www.booking.com/Share-ziw9Luu) parken
+- Übernachtungsgäste Kranwerk: können spätabends mit den Autos auf den Hof fahren
+
+
