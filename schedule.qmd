@@ -2,16 +2,29 @@
 title: "Zeitplan"
 ---
 
-# Verpasst MUAHAH
+#### 26.06.2026
 
-Die Trauung hat bereits stattgefunden.
-Bzw. wird bereits stattgefunden haben (Futur 2!). 
+::: {.no-lines tbl-colwidths="[25,75]"}
 
-## Zeitplan für den 26.06.26
+| Zeit         | Programmpunkt |
+|--------------|--------------|
+| ab 16 Uhr    | Anreise mit Gartenkonzert, Sektempfang<br>und Mitbring-Kuchenbuffet ([Geschenke](./gifts.qmd)) |
+| ab 18 Uhr    | Auf in den Festsaal<br>Überraschungsprogramm |
+| ab 19 Uhr    | Großes Festbuffet im Saal |
+| ab 20:30 Uhr | Live-Musik mit Überraschungsband im Saal |
+| ab 22 Uhr    | Tanz-Musik mit DJ Schnitzel im Partykeller<br>und/oder Chillen am Feuer im Garten |
+| ab 24 Uhr    | Mitternachtsbuffet |
+| ab ??? Uhr   | Letzte Runde – wenn wir das entscheiden ;)|
 
--   15:00 Ceremony
--   17:00 Anreise & Mitbring-Buffet
--   18:00 Party
--   19:00 Abendessen
--   20:00 noch mehr Party
--   05:00 ab ins Bettchen
+:::
+
+#### 27.06.2026
+
+::: {.no-lines tbl-colwidths="[25,75]"}
+
+| Zeit        | Programmpunkt |
+|-------------|--------------|
+| 9 – 11 Uhr  | Gemeinsames Frühstück für alle Übernachtungsgäste<br>(Hotel/Pension eingeschlossen) im Kranwerk |
+| ab 11 Uhr   | Entspanntes Abreisen und Abbauen |
+
+:::

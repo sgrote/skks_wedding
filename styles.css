@@ -126,4 +126,20 @@ main a:focus {
   }
 }
 
+/* =========================================================
+   Schedule table
+   ========================================================= */
 
+.no-lines th {
+  display: none;   /* removes header */
+}
+
+.no-lines td {
+  border: none !important;  /* removes all lines */
+  padding: 0.3em 0.8em 0.3em 0;
+  vertical-align: top;
+}
+
+.no-lines tr {
+  border: none !important;
+}
