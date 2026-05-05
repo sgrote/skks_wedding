@@ -1,12 +1,22 @@
 [
   {
-    "objectID": "schedule.html#zeitplan-für-den-26.06.26",
-    "href": "schedule.html#zeitplan-für-den-26.06.26",
-    "title": "Zeitplan",
-    "section": "Zeitplan für den 26.06.26",
-    "text": "Zeitplan für den 26.06.26\n\n15:00 Ceremony\n17:00 Anreise & Mitbring-Buffet\n18:00 Party\n19:00 Abendessen\n20:00 noch mehr Party\n05:00 ab ins Bettchen",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Work in progress by Steffi and Quarto.\nContent to be filled and modified by Kathrin. KS.",
     "crumbs": [
-      "Zeitplan"
+      "About"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Kontakt",
+    "section": "",
+    "text": "Bei Fragen rund um die Veranstaltung könnt ihr euch jederzeit bei den Trauzeug*innen melden.\n\n\nSteffi\n\nE-Mail: grote.steffi@gmail.com\n\n\n\nRobert\n\n\nValeska\n\n\nDaniel\n\nWir freuen uns, von euch zu hören!",
+    "crumbs": [
+      "Kontakt"
     ]
   },
   {
@@ -60,36 +70,6 @@
     ]
   },
   {
-    "objectID": "index.html#bla-bla",
-    "href": "index.html#bla-bla",
-    "title": "Welcome",
-    "section": "Bla Bla",
-    "text": "Bla Bla\nSo nice you want to celebrate.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Kontakt",
-    "section": "",
-    "text": "Bei Fragen rund um die Veranstaltung könnt ihr euch jederzeit bei den Trauzeug*innen melden.\n\n\nSteffi\n\nE-Mail: grote.steffi@gmail.com\n\n\n\nRobert\n\n\nValeska\n\n\nDaniel\n\nWir freuen uns, von euch zu hören!",
-    "crumbs": [
-      "Kontakt"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Work in progress by Steffi and Quarto.\nContent to be filled and modified by Kathrin. KS.",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
     "objectID": "accomodation.html",
     "href": "accomodation.html",
     "title": "Unterkunft",
@@ -130,6 +110,16 @@
     ]
   },
   {
+    "objectID": "index.html#bla-bla",
+    "href": "index.html#bla-bla",
+    "title": "Welcome",
+    "section": "Bla Bla",
+    "text": "Bla Bla\nSo nice you want to celebrate.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
     "objectID": "gifts.html",
     "href": "gifts.html",
     "title": "Geschenke",
@@ -140,13 +130,13 @@
     ]
   },
   {
-    "objectID": "location.html",
-    "href": "location.html",
-    "title": "Location",
-    "section": "",
-    "text": "Gefeiert wird im Kranwerk Naunhof.\nLutherstraße 10\n04683 Naunhof\nkranwerk.com",
+    "objectID": "schedule.html#zeitplan-für-den-26.06.26",
+    "href": "schedule.html#zeitplan-für-den-26.06.26",
+    "title": "Zeitplan",
+    "section": "Zeitplan für den 26.06.26",
+    "text": "Zeitplan für den 26.06.26\n\n15:00 Ceremony\n17:00 Anreise & Mitbring-Buffet\n18:00 Party\n19:00 Abendessen\n20:00 noch mehr Party\n05:00 ab ins Bettchen",
     "crumbs": [
-      "Location"
+      "Zeitplan"
     ]
   },
   {
@@ -157,6 +147,16 @@
     "text": "PLATZHALTER\nLadet hier eure Fotos über diesen QR-Code hoch.\nBzw. über diesen Link.\nUnd schaut euch hier die Gallerie an (eher nachdem das oben deaktiviert wurde?).",
     "crumbs": [
       "Fotos"
+    ]
+  },
+  {
+    "objectID": "location.html",
+    "href": "location.html",
+    "title": "Location",
+    "section": "",
+    "text": "Gefeiert wird im Kranwerk Naunhof.\nLutherstraße 10\n04683 Naunhof\nkranwerk.com",
+    "crumbs": [
+      "Location"
     ]
   }
 ]
