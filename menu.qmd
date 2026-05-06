@@ -41,3 +41,11 @@ Es gibt:
 * frische Salate
 * ein warmes Buffet
 * sowie ein Dessertangebot
+
+---
+
+![](./images/food1.webp)  
+<br>
+
+![](./images/food2.webp)
+
