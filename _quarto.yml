@@ -26,10 +26,10 @@ website:
       href: gifts.qmd   
     - text: Fotos
       href: pictures.qmd   
-    - text: About
-      href: about.qmd
     - text: Kontakt
       href: contact.qmd
+    - text: About
+      href: about.qmd
 
 format:
   html:
