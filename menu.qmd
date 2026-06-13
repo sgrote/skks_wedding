@@ -41,9 +41,9 @@ Wer Lust und Zeit hat, kann sehr gern Tiramisu, Mousse au Chocolat, Fruchtspeise
 Bitte gebt uns hierzu kurz Bescheid, damit wir alles entsprechend koordinieren können.  
 
 ![](./images/food1.jpg) 
-<br>
+<br><br>
 ![](./images/food2.jpg) 
-<br>
+<br><br>
 ![](./images/food3.jpg) 
 ---
 
