@@ -5,7 +5,14 @@
 body {
   margin: 0;
   color: black;
-  background-image: url("images/background_wooden.jpg");
+
+  background:
+    linear-gradient(
+      rgba(255,255,255,0.6),
+      rgba(255,255,255,0.6)
+    ),
+    url("images/background_wooden.jpg");
+
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
