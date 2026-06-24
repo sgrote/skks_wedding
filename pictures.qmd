@@ -2,19 +2,23 @@
 title: "Fotos"
 ---
 
+<br>
 
-Hier habt ihr die Möglichket haben, über einen Link Fotos von der Hochzeitsfeier hochzuladen.  
+Hier habt ihr die Möglichkeit Fotos von der Hochzeitsfeier hochzuladen.  
 Wir freuen uns über eure Beiträge!  
 
+
+[Hier klicken](http://rob281184-fa1105.quickconnect.to/mo/request/wRh5g2www)
+
+oder diesen QR-Code scannen:
+
+![](images/qrcode_upload_link.png){width=200px}
+
 <br>
 
-[Hier Fotos hochladen](http://rob281184-fa1105.quickconnect.to/mo/request/wRh5g2www).  
-
-<br>
-
-Dieser Link ist nur zum Hochladen der Fotos.   
+Dieser Link / QR-Code ist nur zum Hochladen der Fotos.   
 Anschauen könnt ihr euch die gesammelten Werke über einen separaten Link,  
-den wir zum gegeben Zeitpunkt teilen werden.  
+den wir zum gegebenen Zeitpunkt teilen werden.  
 
 
-*Note: Die Fotos liegen sicher auf einem Server bei Robert ;)*
+*Hinweis: Die Fotos liegen sicher auf einem Server bei Robert ;)*
